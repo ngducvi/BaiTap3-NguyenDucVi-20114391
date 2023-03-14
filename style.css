@@ -1,0 +1,219 @@
+    * {
+        padding: 0%;
+        margin: 0%;
+    }
+    
+    .wrapper {
+        background-color: #294E79;
+        width: 960px;
+        height: 100px;
+        position: relative;
+        margin: auto;
+    }
+    
+    .header h1 {
+        position: relative;
+        color: white;
+        position: absolute;
+        top: 20px;
+        left: 80px;
+    }
+    
+    .header p {
+        color: white;
+        position: absolute;
+        top: 60px;
+        left: 78px;
+    }
+    
+    .header img {
+        position: absolute;
+        top: 10px;
+        left: 25px;
+    }
+    
+    .header input {
+        position: absolute;
+        /* background-color: #294E79; */
+        height: 25px;
+        width: 250px;
+        top: 20px;
+        right: 50px;
+    }
+    
+    .header button {
+        position: absolute;
+        font-weight: bold;
+        /* background-color: #294E79; */
+        height: 25px;
+        width: 25px;
+        top: 20px;
+        right: 20px;
+    }
+    
+    .menu li {
+        position: relative;
+        padding: 10px 17px;
+        background-color: #3D73B1;
+        float: right;
+        right: 20px;
+        margin-left: 10px;
+        text-align: center;
+        display: block;
+        top: 63px;
+        font-size: 14px;
+    }
+    
+    .menu a {
+        color: white;
+        text-decoration: none;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+    }
+    
+    .section-left {
+        position: relative;
+        top: 140px;
+        left: 10px;
+    }
+    
+    .section-left-title {
+        position: relative;
+        top: 10px;
+        color: grey;
+        font-size: larger;
+    }
+    
+    .section-left-dotted {
+        position: relative;
+        top: 25px;
+        border-bottom: 2px dotted black;
+        width: 660px;
+    }
+    
+    .section-left-top {
+        position: relative;
+        top: 45px;
+        width: 400px;
+        color: red;
+        font-style: italic;
+        text-align: justify
+    }
+    
+    .section-left-left {
+        position: relative;
+        top: 60px;
+        color: grey;
+    }
+    
+    .section-left-right {
+        position: relative;
+        left: 225px;
+        bottom: 15px;
+        color: grey;
+    }
+    
+    .section-left-bottom {
+        position: relative;
+        color: grey;
+    }
+    
+    .section-left-button {
+        position: relative;
+        top: 20px;
+        color: white;
+    }
+    
+    .footer1 {
+        position: relative;
+        bottom: 270px;
+        width: 100%;
+        height: 22px;
+        background-color: #294E79;
+        color: white;
+    }
+    
+    .footer2 {
+        position: relative;
+        bottom: 292px;
+        left: 252px;
+        color: #6B89AB;
+    }
+    
+    .section-center-title {
+        position: relative;
+        bottom: 210px;
+        color: grey;
+        font-size: larger;
+        left: 460px;
+    }
+    
+    .section-center-dotted {
+        position: relative;
+        bottom: 190px;
+        left: 460px;
+        border-bottom: 2px dotted black;
+        width: 210px;
+    }
+    
+    .section-center-top {
+        position: relative;
+        bottom: 170px;
+        left: 460px;
+    }
+    
+    .section-center-center {
+        position: relative;
+        bottom: 115px;
+        left: 460px;
+    }
+    
+    .section-center-bottom {
+        position: relative;
+        bottom: 100px;
+        left: 460px;
+    }
+    
+    .section-right-title {
+        position: relative;
+        bottom: 500px;
+        color: grey;
+        font-size: larger;
+        left: 720px;
+    }
+    
+    .section-right-dotted {
+        position: relative;
+        bottom: 480px;
+        left: 720px;
+        border-bottom: 2px dotted black;
+        width: 210px;
+    }
+    
+    .section-right-top {
+        position: relative;
+        image-resolution: initial;
+        width: 250px;
+        bottom: 450px;
+        left: 720px;
+    }
+    
+    .section-right-center {
+        position: relative;
+        width: 210px;
+        bottom: 440px;
+        left: 720px;
+        text-align: justify
+        /* căn lề 2 bên */
+    }
+    
+    .section-right-center li {
+        position: relative;
+        top: 35px;
+        left: 135px;
+        text-align: left;
+        display: block;
+        text-decoration: none;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+    }
